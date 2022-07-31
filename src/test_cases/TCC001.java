@@ -6,4 +6,7 @@ public class TCC001 {
 
     // more testings
 
+    // negative testing
+    //
+
 }
